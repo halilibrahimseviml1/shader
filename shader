@@ -90,5 +90,3 @@ player.CharacterAdded:Connect(function()
 	task.wait(1)
 	ApplySafeGlassEngine()
 end)
-
-print("[LIGHTNING HUB] Safe Glass Reflection Engine Active (Invisible Fixed)!")
